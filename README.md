@@ -33,8 +33,10 @@ Contributions are welcome! If you have a better approach to solving a problem, f
 Special thanks to LeetCode for providing such a valuable platform for practicing coding interview questions.
 
 
-## IDE
+## IDE and Platforms
 ![VS for github](https://github.com/Namityadav8/LeetCode/assets/114800158/9f12004a-fe4c-4147-8d2f-f3eba9ffc801)
+![Screenshot (46)](https://github.com/Namityadav8/LeetCode/assets/114800158/2d7d59d9-5770-4639-991a-d57a2c7caae8)
+
 
 ## Contact
 
