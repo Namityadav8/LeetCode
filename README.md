@@ -34,7 +34,7 @@ Special thanks to LeetCode for providing such a valuable platform for practicing
 
 ## Contact
 
-For any questions or suggestions regarding the solutions, feel free to contact me at [your_email@example.com](mailto:namityadav008@gmail.com).
+For any questions or suggestions regarding the solutions, feel free to contact me at [your_namityadav008@gmail.com](mailto:namityadav008@gmail.com).
 
 Happy coding!
 
