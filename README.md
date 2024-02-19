@@ -38,7 +38,9 @@ Special thanks to LeetCode for providing such a valuable platform for practicing
 ![Screenshot (46)](https://github.com/Namityadav8/LeetCode/assets/114800158/2d7d59d9-5770-4639-991a-d57a2c7caae8)
 
 ## Ps :-
-i have just started doing leetcode .
+I have just started doing leetcode .
+Will be updating the progress regularly.
+Wish me luck .
 
 ## Contact
 
